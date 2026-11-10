@@ -8,7 +8,7 @@ Este Real Decreto es una **norma de corrección y ajuste**. Corrige errores mate
 
 ### Cambios más relevantes en el RD 659/2023
 
-|Artículo / Tema|Cambio introducido por el RD 658/2024|Importancia para examen|
+|Artículo / Tema|Cambio introducido por el RD 658/2024|Importancia|
 |---|---|---|
 |**Art. 18.13 – Convocatorias**|- Grados **A y B**: 1 convocatoria (posible extraordinaria)  <br>- Grados **C y E**: 2 convocatorias  <br>- Grados **D**: 1 o 2 anuales, **máximo 4** por módulo|Muy preguntado|
 |**Art. 54 y 61 – Acceso a Grado A y B**|No se exigen requisitos académicos. Solo se comprueba que la persona tiene habilidades comunicativas y básicas suficientes|Flexibilización del acceso|
