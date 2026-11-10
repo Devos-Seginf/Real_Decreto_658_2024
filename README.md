@@ -28,7 +28,7 @@ Este Real Decreto es una **norma de corrección y ajuste**. Corrige errores mate
 - Se permite, **excepcionalmente**, que centros públicos de ciclos de grado medio, superior o cursos de especialización se ubiquen en edificios de titularidad pública con uso compartido (siempre que el espacio educativo esté claramente delimitado).
 - Se incluyen requisitos específicos para el **Bachillerato General** (laboratorio de Ciencias Generales).
 
-### Esquema rápido de memorización
+### Esquema rápido
 
 **RD 658/2024** = correcciones + ajustes prácticos al RD 659/2023  
 → **Convocatorias** (A/B = 1; C/E = 2; D = máx. 4)  
