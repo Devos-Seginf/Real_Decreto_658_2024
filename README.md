@@ -4,7 +4,7 @@ Modificaciones al RD 659/2023 y al RD 132/2010
 
 **Real Decreto 658/2024** (modificaciones al RD 659/2023 y al RD 132/2010)
 
-Este Real Decreto es una **norma de corrección y ajuste**. Corrige errores materiales del RD 659/2023, aclara interpretaciones y introduce cambios solicitados por las comunidades autónomas para facilitar la implantación. En exámenes suelen preguntar los cambios concretos respecto al texto original del RD 659/2023.
+Este Real Decreto es una **norma de corrección y ajuste**. Corrige errores materiales del RD 659/2023, aclara interpretaciones y introduce cambios solicitados por las comunidades autónomas para facilitar la implantación.
 
 ### Cambios más relevantes en el RD 659/2023
 
